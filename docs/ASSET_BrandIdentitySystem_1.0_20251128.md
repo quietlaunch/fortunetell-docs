@@ -1,6 +1,6 @@
 # **FORTUNETELL — BRAND IDENTITY SYSTEM**
 
-_(Document 1 of 3\)_
+*(Document 1 of 3\)*
 
 ---
 
@@ -43,23 +43,23 @@ Local data storage for free users, manual-first, minimal personal data, no track
 
 FortuneTell should consistently feel like:
 
-- **Clear**
+* **Clear**
 
-- **Precise**
+* **Precise**
 
-- **Quiet**
+* **Quiet**
 
-- **Trustworthy**
+* **Trustworthy**
 
-- **Focused**
+* **Focused**
 
-- **Minimal**
+* **Minimal**
 
-- **Instrumental**
+* **Instrumental**
 
-- **Steady**
+* **Steady**
 
-- **Non-intrusive**
+* **Non-intrusive**
 
 No emotion-driven language. No hype. No productivity clichés.
 
@@ -104,7 +104,7 @@ No emotion-driven language. No hype. No productivity clichés.
 # **6\. Brand Differentiation Strategy**
 
 FortuneTell never imitates budgeting apps.  
- It differentiates by explicitly stating what others do wrong—_without naming them._
+ It differentiates by explicitly stating what others do wrong—*without naming them.*
 
 ### **Differentiation Points:**
 
@@ -127,13 +127,13 @@ These points should appear across website copy, onboarding, pricing pages, and m
 FortuneTell’s visual identity is **minimalist, modern, and quietly premium**—not flashy, not decorative, and not playful.  
  The reference point is **Estwing**:
 
-- a tool with **zero excess**,
+* a tool with **zero excess**,
 
-- masterfully balanced,
+* masterfully balanced,
 
-- elegant because of its proportions and precision, not ornament,
+* elegant because of its proportions and precision, not ornament,
 
-- unmistakably high-quality because every detail has purpose.
+* unmistakably high-quality because every detail has purpose.
 
 FortuneTell should feel the same:  
  **a precision instrument for financial clarity.**
@@ -149,16 +149,16 @@ The UI is not meant to impress visually.
 
 ### **What this means:**
 
-- No visual flourish for its own sake.
+* No visual flourish for its own sake.
 
-- No aesthetic noise.
+* No aesthetic noise.
 
-- Every pixel has a purpose.
+* Every pixel has a purpose.
 
-- The experience should feel _stable_, _balanced_, _solid_, and _engineered_, not trendy.
+* The experience should feel *stable*, *balanced*, *solid*, and *engineered*, not trendy.
 
 Think:  
- **Spotify’s calm clarity \+ Google’s functional restraint \+ Eastwing’s precision.**
+ **Spotify’s calm clarity \+ Google’s functional restraint \+ Estwing’s precision.**
 
 ---
 
@@ -168,23 +168,23 @@ High-contrast neutrals with one or two accent colors.
 
 ### **Neutral Palette**
 
-- Charcoal / graphite gray
+* Charcoal / graphite gray
 
-- Soft white
+* Soft white
 
-- Light gray for separators
+* Light gray for separators
 
-- Limited shadow usage (functional only)
+* Limited shadow usage (functional only)
 
 These neutrals create a professional, tool-like environment—similar to Estwing’s clean steel aesthetic.
 
 ### **Accent Palette**
 
-- **Green (safe)**
+* **Green (safe)**
 
-- **Yellow (caution)**
+* **Yellow (caution)**
 
-- **Red (danger)**
+* **Red (danger)**
 
 These directly match the ProjectionEngine’s color logic.  
  They are used sparingly, only to indicate state—never decoration.
@@ -204,25 +204,25 @@ Use a modern, geometric sans-serif font with extreme legibility and clean geomet
 
 Typography should signal:
 
-- stability
+* stability
 
-- function
+* function
 
-- engineering
+* engineering
 
-- modern usability
+* modern usability
 
 ### **Rules:**
 
-- No typography with personality
+* No typography with personality
 
-- No serifs
+* No serifs
 
-- No handwritten styles
+* No handwritten styles
 
-- Consistent line height and padding
+* Consistent line height and padding
 
-- Large numerals and dates (because the product is numerical-first)
+* Large numerals and dates (because the product is numerical-first)
 
 Cues:  
  **Spotify’s typography discipline, Google’s readability style.**
@@ -231,33 +231,33 @@ Cues:
 
 ## **4\. Component Design**
 
-Everything must be **precisely proportioned, balanced, and ergonomic**—your Eastwing analogy in UI form.
+Everything must be **precisely proportioned, balanced, and ergonomic**—your Estwing analogy in UI form.
 
 ### **Principles:**
 
-- Edges: subtle rounding (4–8px), not bubbly
+* Edges: subtle rounding (4–8px), not bubbly
 
-- Shadows: thin, functional, never soft “material” shadows
+* Shadows: thin, functional, never soft “material” shadows
 
-- Buttons: rectangular, firm, minimal, never playful
+* Buttons: rectangular, firm, minimal, never playful
 
-- Cards: simple divisions, strong grid, no decoration
+* Cards: simple divisions, strong grid, no decoration
 
-- Icons: line-based, functional, used sparingly
+* Icons: line-based, functional, used sparingly
 
 ### **Visual Personality:**
 
-- Solid
+* Solid
 
-- Balanced
+* Balanced
 
-- Confident
+* Confident
 
-- Uncluttered
+* Uncluttered
 
-- Precise
+* Precise
 
-- Quietly premium
+* Quietly premium
 
 The UI should feel like a well-machined tool—not a toy, not a consumer fintech gimmick.
 
@@ -269,18 +269,18 @@ Grid-first, with **mathematically clean proportions**.
 
 ### **Key rules:**
 
-- Use consistent spacing units (4/8/16/24)
+* Use consistent spacing units (4/8/16/24)
 
-- No unpredictable layout shifts
+* No unpredictable layout shifts
 
-- Plenty of breathing room around critical numbers
+* Plenty of breathing room around critical numbers
 
-- Keep charts minimal or avoid them entirely
+* Keep charts minimal or avoid them entirely
 
-- Always prioritize forward-looking numbers over any visual element
+* Always prioritize forward-looking numbers over any visual element
 
 Think:  
- **If this were an Eastwing hammer UI, how would the spacing feel?**  
+ **If this were an Estwing hammer UI, how would the spacing feel?**  
  **Exact. Balanced. Weight-distributed.**
 
 ---
@@ -292,21 +292,21 @@ Yes, minimal—but not absent.
 
 ### **Motion guidelines:**
 
-- Very short transitions (150–200ms)
+* Very short transitions (150–200ms)
 
-- Easing should feel mechanical, not playful
+* Easing should feel mechanical, not playful
 
-- No elastic/overshoot animations
+* No elastic/overshoot animations
 
-- Highlight future-state changes (e.g., balance shift) gently, not dramatically
+* Highlight future-state changes (e.g., balance shift) gently, not dramatically
 
 Motion should communicate:
 
-- accuracy
+* accuracy
 
-- responsiveness
+* responsiveness
 
-- engineering
+* engineering
 
 Never “delight.”
 
@@ -316,27 +316,27 @@ Never “delight.”
 
 Use these as design constraints:
 
-- **Engineered**
+* **Engineered**
 
-- **Precise**
+* **Precise**
 
-- **Minimal**
+* **Minimal**
 
-- **Stable**
+* **Stable**
 
-- **Modern**
+* **Modern**
 
-- **Quiet**
+* **Quiet**
 
-- **Functional**
+* **Functional**
 
-- **Confident**
+* **Confident**
 
-- **Ergonomic**
+* **Ergonomic**
 
-- **Balanced**
+* **Balanced**
 
-This is an Eastwing tool expressed in pixels.
+This is an Estwing tool expressed in pixels.
 
 ---
 
@@ -344,61 +344,61 @@ This is an Eastwing tool expressed in pixels.
 
 ### **Example: Dashboard**
 
-- Clean white or light neutral background
+* Clean white or light neutral background
 
-- Two large numbers:
+* Two large numbers:
 
-  - Today’s balance
+  * Today’s balance
 
-  - Days of cash remaining
+  * Days of cash remaining
 
-- A single thin projection line (no shading)
+* A single thin projection line (no shading)
 
-- Weekly blocks separated by subtle dividers
+* Weekly blocks separated by subtle dividers
 
-- One small accent color on negative or warning days
+* One small accent color on negative or warning days
 
 ### **Example: Transaction List**
 
-- Pure table-like layout
+* Pure table-like layout
 
-- No gradient rows
+* No gradient rows
 
-- No “card” grouping unless needed
+* No “card” grouping unless needed
 
-- Strong alignment (left for labels, right for amounts)
+* Strong alignment (left for labels, right for amounts)
 
-- Dates large and clean
+* Dates large and clean
 
 ### **Example: Add Planned Income Flow**
 
-- Vertical layout
+* Vertical layout
 
-- Wide spacing to reduce cognitive load
+* Wide spacing to reduce cognitive load
 
-- Minimal fields
+* Minimal fields
 
-- Clear, mechanical-looking confirm button
+* Clear, mechanical-looking confirm button
 
 ---
 
 ## **9\. What NOT to do (Specific Visual Anti-Patterns)**
 
-- No bright, trendy neon.
+* No bright, trendy neon.
 
-- No purple/pink fintech gradients.
+* No purple/pink fintech gradients.
 
-- No cartoonish icons, mascots, or illustrations.
+* No cartoonish icons, mascots, or illustrations.
 
-- No gamified progress rings or confetti.
+* No gamified progress rings or confetti.
 
-- No rounded-pill bubbly interfaces.
+* No rounded-pill bubbly interfaces.
 
-- No excessive shadows or glass effects.
+* No excessive shadows or glass effects.
 
-- No skeuomorphic budget envelopes.
+* No skeuomorphic budget envelopes.
 
-- No decorative backgrounds, patterns, or textures.
+* No decorative backgrounds, patterns, or textures.
 
 FortuneTell should visually feel like a **precision instrument**, not a finance “experience.”
 
@@ -407,7 +407,7 @@ FortuneTell should visually feel like a **precision instrument**, not a finance 
 ## **10\. Summary: The FortuneTell Visual Identity**
 
 **Minimalist. Engineered. Precise. Quietly premium.**  
- **Thoughtful like an Eastwing hammer.**  
+ **Thoughtful like an Estwing hammer.**  
  **Clear like a Google product.**  
  **Calm like Spotify’s layout.**  
  **Purpose-built for financial forecasting.**
@@ -451,27 +451,27 @@ This appears in onboarding, homepage hero, SEO micro-pages, and upgrade messagin
 
 These must be banned from all future copy, UI, and marketing.
 
-- Don’t give advice (“you should”, “you need to”).
+* Don’t give advice (“you should”, “you need to”).
 
-- Don’t talk about discipline or habits.
+* Don’t talk about discipline or habits.
 
-- Don’t use motivational language.
+* Don’t use motivational language.
 
-- Don’t use multiple brand colors.
+* Don’t use multiple brand colors.
 
-- Don’t use metaphors (journeys, buckets, envelopes).
+* Don’t use metaphors (journeys, buckets, envelopes).
 
-- Don’t use illustrations or cartoons.
+* Don’t use illustrations or cartoons.
 
-- Don’t personify the app.
+* Don’t personify the app.
 
-- Don’t use guilt-based framing.
+* Don’t use guilt-based framing.
 
-- Don’t say “manage your money better.”
+* Don’t say “manage your money better.”
 
-- Don’t say “control.”
+* Don’t say “control.”
 
-- Don’t say “budget” as the core product (it is a forecasting tool).
+* Don’t say “budget” as the core product (it is a forecasting tool).
 
 ---
 
@@ -488,3 +488,4 @@ Relationship positioning:
 Do not cross-contaminate visual identity or messaging systems.
 
 ---
+
