@@ -18,6 +18,7 @@ jobs:
       - name: Generate tokens.css from tokens.yaml
         run: |
           cd docs-source
+          npm install --omit=dev
           node docs/design-tokens/build-tokens.mjs
 
       - name: Set short SHA
