@@ -1,0 +1,11 @@
+{
+  "name": "fortunetell-docs",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:tokens": "node docs/design-tokens/build-tokens.mjs"
+  },
+  "dependencies": {
+    "yaml": "^2.4.5"
+  }
+}

@@ -15,6 +15,11 @@ jobs:
         with:
           path: docs-source
 
+      - name: Generate tokens.css from tokens.yaml
+        run: |
+          cd docs-source
+          node docs/design-tokens/build-tokens.mjs
+
       - name: Set short SHA
         id: vars
         shell: bash
