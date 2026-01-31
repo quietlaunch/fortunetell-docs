@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node docs/design-tokens/build-tokens.mjs:*)",
+      "Bash(flatpak-spawn --host node:*)",
+      "Bash(while read timestamp file)",
+      "Bash(done)",
+      "Bash(cd:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
+    ]
+  }
+}
